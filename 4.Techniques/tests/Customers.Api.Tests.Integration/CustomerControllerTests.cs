@@ -1,7 +1,4 @@
-using System.Collections;
 using System.Net;
-using System.Net.Http;
-using Customers.Api;
 using Microsoft.AspNetCore.Mvc.Testing;
 
 namespace Customers.Api.Tests.Integration;
