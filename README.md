@@ -20,3 +20,5 @@ Learn the basics of integration testing such as:
 * How to skip a unit test.
 
 #### Techniques
+Learn techniques for testing the Customers.Api
+* Using WebApplicationFactory to create an in-memory Api to run tests against
